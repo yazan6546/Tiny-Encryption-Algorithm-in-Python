@@ -1,4 +1,4 @@
-cbc
-123FA234
+ecb
+123
 my name is yazan
 Aqsa.bmp
